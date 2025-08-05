@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Shubhojeet kumar 👋</h1>
 
 <p align="center">
-  🧠 AI/ML & Generative AI Learner | Python Enthusiast | Project Builder | Dreaming Big 🚀  
+  🧠 AI/ML & Generative AI Learner | Python Enthusiast | Project Builder   
 </p>
 
 <div align="center">
